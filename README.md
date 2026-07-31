@@ -30,7 +30,7 @@
 
 ## 📸 Overview & Interface
 
-![PhishGuard Hero Preview](assets/hero-preview.png)
+![PhishGuard Hero Preview](assets/hero-preview.jpg)
 
 **PhishGuard** is a high-performance web security platform that analyzes suspicious links, detects brand impersonation, and prevents zero-day social engineering attacks in real time.
 
@@ -42,7 +42,7 @@ Unlike traditional security solutions that rely exclusively on static, slow-to-u
 
 PhishGuard employs a multi-layered analysis pipeline on every submitted URL before generating a confidence score and verdict.
 
-![How PhishGuard Works](assets/how-it-works.png)
+![How PhishGuard Works](assets/how-it-works.jpg)
 
 ```
 ┌──────────────────────────────┐
