@@ -100,7 +100,7 @@ PhishGuard employs a multi-layered analysis pipeline on every submitted URL befo
 * **Instant Tracking:** Keep track of past URL analyses with visual risk indicators, timestamping, and categorization.
 * **Filter & Search:** Sort through past scans by risk severity (`Safe`, `Medium`, `Critical`).
 
-![PhishGuard Dashboard & History](assets/dashboard-history.png)
+![PhishGuard Dashboard & History](assets/dashboard-history.jpg)
 
 ---
 
