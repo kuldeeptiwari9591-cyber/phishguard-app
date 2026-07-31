@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="PhishGuard Logo" width="120" height="120" />
+  <img src="assets/logo.jpg" alt="PhishGuard Logo" width="120" height="120" />
 </p>
 
 <h1 align="center">PhishGuard</h1>
